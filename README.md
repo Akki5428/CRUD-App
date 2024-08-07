@@ -17,4 +17,4 @@
 
 ### 🌱Technologies Used
 
-**Java,JSP,[Servlets, JDBC, or any other technologies you used]**
+**Java, JSP, [Servlets, JDBC, or any other technologies you used]**
