@@ -1,5 +1,5 @@
 # Student Information Management System
-A simple CRUD application to manage student information with authentication using Java and JSP.
+## A simple CRUD application to manage student information with authentication using Java and JSP.
 
 ⚡ **Features**
 Authentication: Secure login, registration, and logout for users.
