@@ -1,19 +1,21 @@
 # Student Information Management System
 ## A simple CRUD application to manage student information with authentication using Java and JSP.
 
-⚡ **Features**
-Authentication: Secure login, registration, and logout for users.
+### ⚡Features
 
-Create: Add new student information.
+**Authentication: Secure login, registration, and logout for users.**
 
-Read: View details of all students.
+**Create: Add new student information.**
 
-Update: Edit existing student information.
+**Read: View details of all students.**
 
-Delete: Remove student information.
+**Update: Edit existing student information.**
+
+**Delete: Remove student information.**
 
 
-🌱**Technologies Used**
+
+### 🌱Technologies Used
 
 Java
 
